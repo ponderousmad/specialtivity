@@ -3,4 +3,4 @@ var MAIN = (function () {
     
     return {
     };
-};
+}());
